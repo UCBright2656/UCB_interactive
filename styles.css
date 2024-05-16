@@ -13,6 +13,7 @@ body {
 
 header {
     background: linear-gradient(to right,#c70000,#d28300,#dfd000,#00873c,#005aa0,#181878,#800073);
+    animation: 5s example4 linear infinite;
     color: #fff;
     display: flex;
     justify-content: space-between;
