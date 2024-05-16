@@ -12,9 +12,7 @@ body {
 }
 
 header {
-    background-color: linear-gradient(to right,#e60000,#f39800,#fff100,#009944,#0068b7,#1d2088,#920783);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: linear-gradient(to right,#c70000,#d28300,#dfd000,#00873c,#005aa0,#181878,#800073);
     color: #fff;
     display: flex;
     justify-content: space-between;
