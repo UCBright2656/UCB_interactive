@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #880015;//161947
+    background-color: linear-gradient(to right,#e60000,#f39800,#fff100,#009944,#0068b7,#1d2088,#920783);
     color: #fff;
     display: flex;
     justify-content: space-between;
